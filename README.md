@@ -23,9 +23,9 @@ Pablo, Daniel, René y Matías.
     * 2.3.2. Gestores/ organizadores. 
     * 2.3.3. Promotores/ comunicadores. 
 ## 3. Temas pendientes para la próxima reunión 02-11-2017: 
-  * **3.1. Aplicación Pollen:** Pablo realizará un tutorial “simple” introductorio a la aplicación. 
+  * **3.1. Aplicación Pollen:** Pablo realizará un video-tutorial “simple” introductorio a la aplicación. 
   * **3.2. Declaración de propósitos y buena fé del sistema (“Estatuto de auto-regulación”):** se 
-  propone a Pablo Rodriguez (@pablogrod) para coordinar su diseño. 
+  propone a Pablo Rodriguez para coordinar su diseño. 
   * **3.3. Organización de “Feria de Prueba”:** se propone inicialmente (sujeto a confirmación) el día 
   05-11-2017; 11hs.; en “El Bosquesito”; estructura tentativa: 
     * 11:00hs - Bienvenida y charla de apertura. 
